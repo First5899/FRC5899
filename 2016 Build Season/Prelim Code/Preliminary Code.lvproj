@@ -127,6 +127,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Clappy up down.vi" Type="VI" URL="../Clappy up down.vi"/>
 		<Item Name="Elevator.vi" Type="VI" URL="../Elevator.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="WilliamPI_CameraSend Images To PC Loop2.vi" Type="VI" URL="../WilliamPI_CameraSend Images To PC Loop2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>

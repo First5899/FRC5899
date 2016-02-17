@@ -21,6 +21,8 @@
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
+		<Item Name="WilliamPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="../WilliamPI_CameraRead MJPG for Dashboard.vi"/>
+		<Item Name="WilliamPI_CameraGet Image From Controller.vi" Type="VI" URL="../WilliamPI_CameraGet Image From Controller.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
@@ -264,7 +266,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/FRC_Dashboard/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AA44E00E-5339-4E9A-B282-CA96746D006B}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{191D14CF-19F8-44BF-AE1E-069161A74F45}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
