@@ -740,7 +740,7 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
-			<Item Name="toggle.vi" Type="VI" URL="../toggle.vi"/>
+			<Item Name="toggle.vi" Type="VI" URL="../../New Code with Case Structures/toggle.vi"/>
 			<Item Name="WilliamPI_CameraSend Images To PC Loop.vi" Type="VI" URL="../WilliamPI_CameraSend Images To PC Loop.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
